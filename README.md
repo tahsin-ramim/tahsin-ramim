@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @tahsin-ramim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tahsin-ramim/tahsin-ramim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning wordpress
+- 💞️ I’m looking to collaborate on small projects
+- 📫 Reach out to me at - https://t.me/tahsin_ramim
